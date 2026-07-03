@@ -34,6 +34,9 @@ python news_scraper.py
 |-------|------|
 | Example headline | July 2, 2026 |
 
+## Screenshot
+![alt text](image.png)
+
 ## Disclaimer
 
 This project is intended for educational purposes.
