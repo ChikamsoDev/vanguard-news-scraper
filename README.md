@@ -35,7 +35,7 @@ python news_scraper.py
 | Example headline | July 2, 2026 |
 
 ## Screenshot
-![alt text](image.png)
+![Terminal](image.png)
 
 ## Disclaimer
 
